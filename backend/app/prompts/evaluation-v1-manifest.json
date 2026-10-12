@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-07",
+  "source_ids": [
+    "F05",
+    "F06",
+    "F07",
+    "F08",
+    "F09",
+    "F10",
+    "F11",
+    "F32",
+    "U02",
+    "U03",
+    "U04",
+    "U12"
+  ],
+  "version": "evaluation-v1",
+  "file": "evaluation-v1.md",
+  "sha256": "526451dc2680f4bdce2361c25a330cdcac25633abd5b5f51083375e629df6466",
+  "executor": "Codex"
+}

@@ -1,0 +1,13 @@
+{
+  "version": "customer-reply-v4",
+  "sha256": "f4b9eb17a40b70f0f23b47f564d2ab75018f0e270c12fbe9161c868d6c1c8273",
+  "date": "2026-10-08",
+  "executor": "Codex",
+  "file": "customer-reply-v4.md",
+  "source_ids": [
+    "F27",
+    "D08",
+    "U12"
+  ],
+  "debug_reason": "本人不认可G-v3刻字话术暴露资料缺失，确认直接人工核实建议；不增加无依据差异，E/Q和协议不变"
+}

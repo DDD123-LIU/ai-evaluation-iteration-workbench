@@ -1,0 +1,12 @@
+{
+  "version": "customer-reply-v1",
+  "sha256": "62598ab2aa81d64793ca80ee0296921a7b8ffa085fe804ac96a341a023a75404",
+  "date": "2026-10-07",
+  "executor": "Codex",
+  "file": "customer-reply-v1.md",
+  "source_ids": [
+    "F27",
+    "D08",
+    "U12"
+  ]
+}

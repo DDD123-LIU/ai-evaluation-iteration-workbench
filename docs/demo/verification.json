@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-12",
+  "executor": "Codex",
+  "status": "passed",
+  "method": "Playwright Windows Chrome recording against already-running local production app and persisted results",
+  "model_calls_during_recording": 0,
+  "batch_id": "5ae84701-626c-4849-a486-1d2e65532d27",
+  "case_count": 50,
+  "approved_qa_count": 25,
+  "effect_case_count": 20,
+  "stages": [
+    "/batches",
+    "/batches/5ae84701-626c-4849-a486-1d2e65532d27",
+    "/batches/5ae84701-626c-4849-a486-1d2e65532d27/cases/5586b624-bd4f-43de-b726-d16c628e79c6",
+    "/qa?batch=5ae84701-626c-4849-a486-1d2e65532d27",
+    "/qa/eacf19a6-b89a-500f-a4af-1fbabf22347c",
+    "/exports/5c9098b4-1794-46ad-a12b-d82206ad6bdf",
+    "/supplements/f9ff7232-1c2d-4d98-b095-1ddf83c3756a",
+    "/effects/665648e2-449d-4efc-81ad-a70581e217b8"
+  ],
+  "page_errors": [],
+  "video": "workbench-verification.webm"
+}

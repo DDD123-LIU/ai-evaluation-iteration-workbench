@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-10",
+  "source_ids": [
+    "F05",
+    "F06",
+    "F07",
+    "F08",
+    "F09",
+    "F10",
+    "F11",
+    "F32",
+    "U02",
+    "U03",
+    "U04",
+    "U12"
+  ],
+  "version": "evaluation-v2",
+  "file": "evaluation-v2.md",
+  "sha256": "4a51fc8a1a265095612fdee3457be10105b0223f48e39ff028ebf8bd0a1dfbb6",
+  "executor": "Codex",
+  "debug_reason": "2026-10-10本人明确选择E-v2作为验收和交付版本，TASK-024按已确认新标准通过；切回默认，保留E-v3候选及历史恢复许可"
+}

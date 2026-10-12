@@ -1,0 +1,47 @@
+backend/.venv/
+backend/.pytest_cache/
+backend/.coverage
+backend/htmlcov/
+backend/**/__pycache__/
+backend/*.egg-info/
+data/
+backend/data/
+.coverage
+.codex/runtime-tools/
+.codex/python-runtime/
+frontend/node_modules/
+frontend/dist/
+
+# 本地配置和密钥文件不入库；模板可以提交。
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python缓存和本地工具产物不入库。
+__pycache__/
+*.py[cod]
+.pytest_cache/
+htmlcov/
+*.egg-info/
+*.tsbuildinfo
+
+# 活动数据库及其伴随文件留在本机，已冻结的验收快照保留。
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+*.sqlite3-journal
+workbench.lock
+!docs/04_validation/evidence/**/database-snapshot.sqlite3
+!docs/04_validation/evidence/**/database-final-snapshot.sqlite3
+!docs/04_validation/evidence/**/database-final.sqlite3
+
+# 可重建的浏览器追踪包与工具下载包不入库。
+trace.zip
+/.codex/task010-tokenizer.zip

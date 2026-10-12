@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-07",
+  "executor": "Codex",
+  "version": "standard-question-v1",
+  "file": "standard-question-v1.md",
+  "sha256": "c950be3d13687083c5d83383618326cb574a19afeda1d68b151ea57639d88c80",
+  "source_ids": [
+    "F19",
+    "F20",
+    "F21",
+    "D05",
+    "U02",
+    "U03",
+    "U04",
+    "U07"
+  ]
+}

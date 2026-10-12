@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-07",
+  "source": "https://cdn.deepseek.com/api-docs/deepseek_v4_tokenizer.zip",
+  "zip_sha256": "e7310d1dafe0a86d8a5629fe78a7c763760f651db9b8682718a1781dcd6fe495",
+  "files": {
+    "tokenizer.json": "89085f12ef79460ac5f66d1119325ddfc694b4ab209d80bbd81d35f081dc9614",
+    "tokenizer_config.json": "841f8cf146e3f0ad1082594a31f68ecf7608c20467ef355081333d85bbaeb1cb"
+  }
+}

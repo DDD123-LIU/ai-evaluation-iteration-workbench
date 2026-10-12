@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-08",
+  "executor": "Codex",
+  "version": "standard-question-v2",
+  "file": "standard-question-v2.md",
+  "sha256": "135a62b714748c25afd24484966df0d7ebb25096d8502346bb03e7d4c4fc2191",
+  "source_ids": [
+    "F19",
+    "F20",
+    "F21",
+    "D05",
+    "U02",
+    "U03",
+    "U04",
+    "U07"
+  ],
+  "debug_reason": "TASK-019本人确认标准问须保留前提、资格询问及申请条件；沿用F20原意规则，不改变字段协议"
+}

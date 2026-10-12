@@ -1,0 +1,3 @@
+# 仅TASK-018本地Chrome自动化。正式后端不导入Playwright。
+playwright==1.63.0
+pyee==13.0.1

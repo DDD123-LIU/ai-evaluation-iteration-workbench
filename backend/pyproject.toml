@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "evaluation-workbench-imports"
+version = "0.1.0"
+requires-python = ">=3.13,<3.14"
+dependencies = [
+  "fastapi>=0.115,<1", "uvicorn>=0.34,<1", "sqlalchemy>=2.0,<2.1",
+  "alembic>=1.15,<2", "python-multipart>=0.0.20,<1", "filelock>=3.18,<4",
+  "openai>=2,<3", "jsonschema>=4,<5", "tokenizers>=0.22,<1", "jinja2>=3.1,<4"
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<10", "httpx>=0.28,<1", "pytest-cov>=6,<8"]
+
+[tool.setuptools.packages.find]
+include = ["app*"]
+
+[tool.setuptools.package-data]
+"app.model_client" = ["assets/*.json"]
+"app.prompts" = ["*.md", "*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"

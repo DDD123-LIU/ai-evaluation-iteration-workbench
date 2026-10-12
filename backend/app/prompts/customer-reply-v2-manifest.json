@@ -1,0 +1,13 @@
+{
+  "version": "customer-reply-v2",
+  "sha256": "f9df53e6a038dc35d8c025b81ec91277d0eda8827d0798f716239cb7423801cd",
+  "date": "2026-10-08",
+  "executor": "Codex",
+  "file": "customer-reply-v2.md",
+  "source_ids": [
+    "F27",
+    "D08",
+    "U12"
+  ],
+  "debug_reason": "TASK-019本人确认自然兜底、明确下一步及资料支持渠道，沿用原评分档位和准确性3规则"
+}

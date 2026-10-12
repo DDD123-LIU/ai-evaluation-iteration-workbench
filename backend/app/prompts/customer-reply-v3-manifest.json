@@ -1,0 +1,13 @@
+{
+  "version": "customer-reply-v3",
+  "sha256": "e8ce91d49f45156adcbb10014d481346bce41e735d1431dacf723c9744e30388",
+  "date": "2026-10-08",
+  "executor": "Codex",
+  "file": "customer-reply-v3.md",
+  "source_ids": [
+    "F27",
+    "D08",
+    "U12"
+  ],
+  "debug_reason": "真实G-v2仍出现无法直接确认及人工查询能力无依据承诺；按已认可表达原则强化，不新增业务规则"
+}
